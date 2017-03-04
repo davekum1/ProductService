@@ -20,6 +20,17 @@ You will need following tools below to have it up and running in your local
 3. To compile, type "mvn package"
 4. Install 
 ```
+   
+Installing MongoDB
+```
+1. Install MongoDB to your local  
+2. Once installed, open up mongo shell   
+3. This program is created using default test database in Mongo  
+4. You will need to create new collection called "ProductPricing"  
+5. Type db.createCollection("ProductPricing")  
+6. Insert new data to newly created collection  
+7. Type “db.ProductPricing.insert({ productId: '13860428', currentPrice : 19.99, currencyName : "USD" })”  
+```
 
 This is sample RESTful project build with SpringBoot. 
 
