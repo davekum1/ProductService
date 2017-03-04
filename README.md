@@ -1,6 +1,6 @@
 # MyRetail PRODUCT Service
 MyRetail RESTful project.  
-This project is build RESTful services using Spring framework and utilize Spring Data as entity framework, SpringBoot to generate stand alone runnable jar, and MongoDB as database repository.  In addition, it is also setup for CI/CD with Jenkins.  
+This project is building RESTful services using Spring framework and utilize Spring Data as entity framework, SpringBoot to generate stand alone runnable jar, and MongoDB as database repository.  In addition, it is also setup for CI/CD with Jenkins.  
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes  
