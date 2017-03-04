@@ -12,7 +12,14 @@ You will need following tools below to have it up and running in your local
 4. Maven (only if you want to run in your terminal)
 5. MongoDB (this was developed using 3.4.2)  
 
-## Synopsis
+### Installing
+``` 
+Importing program
+```
+1. Clone this repo in your local  
+2. Import this project as existing Maven project
+3. To compile, type "mvn package"
+4. Install 
 
 This is sample RESTful project build with SpringBoot. 
 
