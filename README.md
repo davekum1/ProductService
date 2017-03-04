@@ -89,8 +89,5 @@ This is to stop the service.
 * [Java](https://www.oracle.com/java) - Programming language  
 * [MongoDB](https://www.mongodb.com) - NoSQL database  
 
-
-
-
 ## Author
 David Kumoro  
