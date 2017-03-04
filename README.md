@@ -32,7 +32,18 @@ Installing MongoDB
 7. Type “db.ProductPricing.insert({ productId: '13860428', currentPrice : 19.99, currencyName : "USD" })”  
 ```
 
-This is sample RESTful project build with SpringBoot. 
+## Service API
+```
+GET : http://104.236.103.221:8080/products/{productId}  
+```
+
+```
+PUT : http://104.236.103.221:8080/products/  
+Body: {"name":"The Big Lebowski (Blu-ray)","id":"13860428","current_price":{"value":19.99,"currency_code":"USD"}}  
+```
+
+Sample working product Id :13860428, 16696652 
+
 
 ## Jenkins
 This git repo is set to Jenkins job for CI/CD demo purposes.  
