@@ -1,3 +1,17 @@
+# MyRetail PRODUCT Service
+MyRetail RESTful project
+
+## Getting started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes  
+  
+### Prerequisites
+You will need following tools below to have it up and running in your local  
+1. JDK (This was compiled with JDK 1.8, but it should work with previous version of Java too)  
+2. Eclipse or equivalent Java IDE  
+3. Maven plugin for your IDE  
+4. Maven (only if you want to run in your terminal)
+5. MongoDB (this was developed using 3.4.2)  
+
 ## Synopsis
 
 This is sample RESTful project build with SpringBoot. 
