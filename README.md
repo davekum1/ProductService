@@ -54,7 +54,8 @@ You can also use Postman to test API above.
 1. Open up Postman  
 2. Click Import  
 3. Select Import from link  
-4. Copy paste this url https://www.getpostman.com/collections/9a0b6b79fe1fa17f59ad
+4. Copy paste this url https://www.getpostman.com/collections/9a0b6b79fe1fa17f59ad  
+5. You should be able to see sample request and run the request to Postman  
 ```
 
 ## Jenkins
