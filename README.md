@@ -48,6 +48,14 @@ Body: {"name":"The Big Lebowski (Blu-ray)","id":"13860428","current_price":{"val
 
 Sample working product Id :13860428, 16696652 
 
+## POSTMAN Collection
+You can also use Postman to test API above.  
+```
+1. Open up Postman  
+2. Click Import  
+3. Select Import from link  
+4. Copy paste this url https://www.getpostman.com/collections/9a0b6b79fe1fa17f59ad
+```
 
 ## Jenkins
 This git repo is set to Jenkins job for CI/CD demo purposes.  
