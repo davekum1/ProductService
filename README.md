@@ -55,3 +55,17 @@ This is to start the service. Please note that currently this job is set as not 
 <i>FunShopStop</i>  
 This is to stop the service.  
 
+## Built With  
+  
+* [Spring](http://www.spring.io) - The web framework used  
+* [Maven](https://maven.apache.org/) - Dependency Management  
+* [Jenkins](https://jenkins.io) - Automation tool  
+* [Eclipse](https://eclipse.org) - IDE  
+* [Java](https://www.oracle.com/java) - Programming language  
+* [MongoDB](https://www.mongodb.com) - NoSQL database  
+
+
+
+
+## Author
+David Kumoro  
