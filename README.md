@@ -31,6 +31,10 @@ Installing MongoDB
 6. Insert new data to newly created collection  
 7. Type “db.ProductPricing.insert({ productId: '13860428', currentPrice : 19.99, currencyName : "USD" })”  
 ```
+Note:  
+- Make sure MongoDB is running after exiting the shell  
+- To start Mongo as service type "service mongod start"  
+- To stop, type “service mongod stop”  
 
 ## Service API
 ```
