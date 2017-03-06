@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.tgt.myretail.constant.MyRetailConstant;
 import com.tgt.myretail.domain.ProductDetail;
-import com.tgt.myretail.domain.ProductPricing;
 import com.tgt.myretail.service.ProductService;
 import com.tgt.myretail.util.Message;
 
